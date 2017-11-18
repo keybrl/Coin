@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+header.navbar.navbar-default {
+    margin: 0;
+    border: 0;
+    border-radius: 0;
+    background-color: transparent;
+}
+
+header.navbar.navbar-default a {
+    padding: 18px 20px;
+    background-color: transparent;
+    color: #c8c8c8;
+}
+header.navbar.navbar-default a:hover {
+    background-color: #0a141e;
+    color: #fafafa;
+}
+header.navbar.navbar-default a:active {
+    background-color: #00000f;
+    color: #ffffff;
+}
+header.navbar.navbar-default a.navbar-brand {
+    background-color: transparent;
+    color: #f0f0f0;
+}
+header.navbar.navbar-default a.navbar-brand:hover,
+header.navbar.navbar-default a.navbar-brand:active {
+    color: #ffffff;
+}
+button.navbar-toggle {
+    margin-top: 11px;
+    margin-bottom: 11px;
+}
+
+
+@media(min-width: 750px) {
+    span.coin {
+        font-family: Consolas, fantasy;
+        font-size: 500px;
+    }
+}
+@media(max-width: 750px) {
+    span.coin {
+        font-family: Consolas, fantasy;
+        font-size: 80vw;
+    }
+}
+span.coin {
+    color: #c8c8c8;
+}
+body {
+    background-color: #000000;
+}
