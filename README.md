@@ -40,7 +40,7 @@
 
 > 项目GitHub仓库链接：[https://github.com/Keyboard-l/coin.git](https://github.com/Keyboard-l/coin.git)
 
-## 后续更新
+## 可能的后续更新
 
 目前该项目只包含三个功能
 
@@ -53,10 +53,4 @@
 - ......
 
 如有更好的想法，欢迎联系项目作者邮箱 [Keyboard L](mailto:keyboard-l@outlook.com)
-
-## 关于打赏
-
-虽然概率之神乐于为你指明方向且不需要酬劳，但是该项目的作者非常贫穷。如果你觉得该项目非常棒，而且你刚好有闲钱，你肯定很乐意打赏项目作者的。如果的确如此，你可以通过下方**微信赞赏码**向我打赏
-
-![扫码向我转账](./source/img/donate.png)
 
