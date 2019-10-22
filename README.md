@@ -10,7 +10,7 @@
 
 ### 如果你是用户
 
-你只需要访问该项目的[主页](http://coin.keybrl.com/)，按照提示，适量点击屏幕适当位置即可。
+你只需要访问该项目的[主页](https://coin.keybrl.com/)，按照提示，适量点击屏幕适当位置即可。
 
 他目前主要有3个功能
 
@@ -38,7 +38,7 @@
 
 你可以查看项目源码，这只是一个普通的静态网站
 
-> 项目GitHub仓库链接：[https://github.com/Keyboard-l/coin.git](https://github.com/Keyboard-l/coin.git)
+> 项目GitHub仓库链接：[https://github.com/Keyboard-l/coin.git](https://github.com/keybrl/Coin.git)
 
 ## 可能的后续更新
 
@@ -53,4 +53,3 @@
 - ......
 
 如有更好的想法，欢迎联系项目作者邮箱 [Keyboard L](mailto:keyboard-l@outlook.com)
-
