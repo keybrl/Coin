@@ -38,7 +38,7 @@
 
 你可以查看项目源码，这只是一个普通的静态网站
 
-> 项目GitHub仓库链接：[https://github.com/Keyboard-l/coin.git](https://github.com/keybrl/Coin.git)
+> 项目GitHub仓库链接：[https://github.com/keybrl/Coin.git](https://github.com/keybrl/Coin.git)
 
 ## 可能的后续更新
 
